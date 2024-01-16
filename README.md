@@ -1,2 +1,2 @@
 # Tindog
-Dating app for dogs
+A tinder website made exclusively for Dogs.
